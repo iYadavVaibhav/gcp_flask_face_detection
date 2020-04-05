@@ -1,5 +1,7 @@
 # Python Google Cloud Vision sample for Google App Engine Flexible Environment
 
+App deployed to [Click to open web app](https://pwa-codelab-273311.appspot.com/)
+
 [![Open in Cloud Shell][shell_img]][shell_link]
 
 [shell_img]: http://gstatic.com/cloudssh/images/open-btn.png
